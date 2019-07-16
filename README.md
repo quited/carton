@@ -24,7 +24,7 @@ can be traded off.
 * [ ] set
 * [ ] buffer
 
-### CI
+### Circle CI
 
 * [ ] configuration 
 
