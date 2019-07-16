@@ -3,6 +3,9 @@
 * The purpose of this project is to implement 
 some daily-used containers for UWE in cpp cause
 arduino platform doesn’t provide any STL support
+ and actually STL is much too heavy-weighted for 
+embedded platforms
+
 * This project is expected to work on
  embedded devices, such as stm32 and 
 perhaps arduino, so our goal is to 
