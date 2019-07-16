@@ -35,8 +35,12 @@ can be traded off.
 
 * For now the newest version of 
 arm-none-eabi toolset is 8 and gcc-avr
- is 9 so we decided to target c++17
+ is 9 so we decided to target c++14
 
+## Code Style 
+
+We follow [google’s cpp
+ style guidelines](https://google.github.io/styleguide/cppguide.html)
 ## License
 
 MIT
