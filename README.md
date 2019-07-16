@@ -26,7 +26,7 @@ can be traded off.
 
 ### CI
 
-* [ ] config
+* [ ] configuration 
 
 ## Compiler and cpp standard
 
@@ -36,4 +36,4 @@ arm-none-eabi toolset is 8 and gcc-avr
 
 ## License
 
-MIT (someone add a license please?)
+MIT
