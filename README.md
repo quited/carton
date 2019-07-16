@@ -6,8 +6,8 @@ project to work on arduino ,that’s will
 * The purpose of this project is to implement 
 some daily-used containers for UWE in cpp cause
 arduino platform doesn’t provide any STL support
- and actually STL is much too heavy-weighted for 
-embedded platforms
+ and STL indeed is much too heavy-weighted for 
+embedded platforms.
 
 * This project is expected to work on
  embedded devices, such as stm32 and 
@@ -35,12 +35,13 @@ can be traded off.
 
 * For now the newest version of 
 arm-none-eabi toolset is 8 and gcc-avr
- is 9 so we decided to target c++14
+ is 9 so we decided to target c++14.
 
 ## Code Style 
 
 We follow [google’s cpp
  style guidelines](https://google.github.io/styleguide/cppguide.html)
+
 ## License
 
 MIT
