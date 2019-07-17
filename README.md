@@ -13,7 +13,7 @@ embedded platforms.
 * This project is expected to work on
  as many embedded devices as possible, 
 such as stm32 and arduino, so our goal
- is to write code with the low memory
+ is to write code with low memory
  usage(as low as possible), which 
 means that sometimes speed 
 can be traded off.
