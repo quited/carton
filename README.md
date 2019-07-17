@@ -35,8 +35,12 @@ can be traded off.
 ## Compiler And Cpp Standard
 
 * For now the newest version of 
-arm-none-eabi toolset is 8 and gcc-avr
- is 9 so we decided to target c++14.
+arm-none-eabi toolset is 8 and ~gcc-avr
+ is 9 so we decided to target c++14.~
+
+* The freaking thing is that Arduino Ide
+ is still using the aged gcc-ave 4.9 so 
+we can only target c++11. Screw you arduino.
 
 ## Code Style 
 
