@@ -1,6 +1,6 @@
 # carton
 > Well, if you want your cross-platform 
-project to work on arduino ,that’s will 
+project to work on arduino ,that will 
  be pain in ass.
 
 * The purpose of this project is to implement 
