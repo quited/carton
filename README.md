@@ -1,7 +1,7 @@
 # carton
 > Well, if you want your cross-platform 
 project to work on arduino ,that will 
- be pain in ass.
+ b e pain in ass.
 
 * The purpose of this project is to implement 
 some daily-used containers for 
@@ -36,8 +36,8 @@ can be traded off.
 ## Compiler And Cpp Standard
 
 * Personally I really want to use cpp 
-Module but for now it’s almost impossible 
-(For we target arduino)
+module but for now it’s almost impossible 
+(as we target arduino)
 
 * For now the newest version of 
 arm-none-eabi toolset is 8 and ~gcc-avr
