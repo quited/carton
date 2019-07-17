@@ -6,7 +6,8 @@ project to work on arduino ,that will
 * The purpose of this project is to implement 
 some daily-used containers for 
 [UWE](https://github.com/quited/UWE)
- in cpp cause arduino platform doesn’t provide any STL support
+ in cpp cause arduino platform doesn’t provide 
+any STL support (to be clear:libstdc++)
  and STL indeed is much too heavy-weighted for 
 embedded platforms.
 
@@ -39,7 +40,7 @@ arm-none-eabi toolset is 8 and ~gcc-avr
  is 9 so we decided to target c++14.~
 
 * The freaking thing is that Arduino Ide
- is still using the aged gcc-ave 4.9 so 
+ is still using the aged gcc-avr 4.9 so 
 we can only target c++11. Screw you arduino.
 
 ## Code Style 
