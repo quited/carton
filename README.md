@@ -10,9 +10,9 @@ arduino platform doesn’t provide any STL support
 embedded platforms.
 
 * This project is expected to work on
- embedded devices, such as stm32 and 
-perhaps arduino, so our goal is to 
-write code with the low memory
+ as many embedded devices as possible, 
+such as stm32 and arduino, so our goal
+ is to write code with the low memory
  usage(as low as possible), which 
 means that sometimes speed 
 can be traded off.
@@ -31,7 +31,7 @@ can be traded off.
 
 * [ ] configuration 
 
-## Compiler and cpp standard
+## Compiler And Cpp Standard
 
 * For now the newest version of 
 arm-none-eabi toolset is 8 and gcc-avr
