@@ -1,7 +1,7 @@
 # carton
 > Well, if you want your cross-platform 
 project to work on arduino ,that will 
- b e pain in ass.
+ be pain in ass.
 
 * The purpose of this project is to implement 
 some daily-used containers for 
