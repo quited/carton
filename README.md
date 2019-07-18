@@ -31,9 +31,9 @@ can be traded off.
 * [ ] deque
 * [ ] list
 
-### Circle CI
+### Circle CI [![CircleCI](https://circleci.com/gh/quited/carton.svg?style=svg)](https://circleci.com/gh/quited/carton)
 
-* [ ] configuration 
+* [x] configuration 
 
 ## Compiler And Cpp Standard
 
