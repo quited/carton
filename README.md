@@ -28,6 +28,9 @@ can be traded off.
 * [ ] map
 * [ ] set
 * [ ] buffer
+* [ ] stack
+* [ ] deque
+* [ ] list
 
 ### Circle CI
 
