@@ -6,7 +6,7 @@ project to work on arduino ,that will
 * The purpose of this project is to implement 
 some daily-used containers for 
 [UWE](https://github.com/quited/UWE)
- in cpp cause arduino platform doesn’t provide 
+ in cpp cause most embedded platforms don’t provide 
 ~any~ full STL support and STL containers is indeed
  much too heavy-weighted for embedded platforms.
 
@@ -39,7 +39,7 @@ can be traded off.
 
 * Personally I really want to use cpp 
 module but for now it’s almost impossible 
-(as we target arduino)
+(as we mainly use gcc toolchain)
 
 * For now the newest version of 
 arm-none-eabi toolset is 8 and ~gcc-avr
