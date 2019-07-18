@@ -32,7 +32,6 @@ can be traded off.
 * [ ] list
 
 ### Circle CI [![CircleCI](https://circleci.com/gh/quited/carton.svg?style=svg)](https://circleci.com/gh/quited/carton)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fquited%2Fcarton.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fquited%2Fcarton?ref=badge_shield)
 
 * [x] configuration 
 
