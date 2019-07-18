@@ -7,9 +7,8 @@ project to work on arduino ,that will
 some daily-used containers for 
 [UWE](https://github.com/quited/UWE)
  in cpp cause arduino platform doesn’t provide 
-any STL support (to be clear:libstdc++)
- and STL indeed is much too heavy-weighted for 
-embedded platforms.
+~any~ full STL support and STL containers is indeed
+ much too heavy-weighted for embedded platforms.
 
 * This project is expected to work on
  as many embedded devices as possible, 
